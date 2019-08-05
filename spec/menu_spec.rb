@@ -1,4 +1,5 @@
 require 'menu'
+
 describe Menu do
 
   let(:dishes) do {
